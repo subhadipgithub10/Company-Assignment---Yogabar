@@ -1,4 +1,5 @@
-**Data Analysis and Optimization Task for Sales and Marketing Strategies **
+**Data Analysis and Optimization Task for Sales and Marketing Strategies**
+
 Business Context: 
 For a retail company aiming to optimize sales and marketing strategies, the task involves using Excel Power Query to compile and analyse product data. The creation of a Pivot Table and the application of SUMIFS will provide a structured overview of sales and product performance based on SKUs and channels. This analysis is crucial for informed decision-making, aiding in inventory management, targeted marketing, and overall business growth. 
  
